@@ -4,6 +4,11 @@
 
 The IOC Checker framework automatically extracts Indicators of Compromise (IOCs) like IPs, Domains, URLs, and hashes from log files, checks them against multiple Threat Intel sources (VirusTotal, Malware Bazaar, ThreatFox, URL Abuse), and generates firewall (UFW) and IDS (Snort) rules to block malicious IOCs. It also includes signature-based detection for tools like Nmap etc
 
+![Alt Text](/Assets/Main%20script.png)
+
+![Alt Text](/Assets/Main1%20script.png)
+
+
 ## Features
 
 - **IOC Extraction**: Extracts IPs, URLs, hashes, and domains from various types of logs (e.g., DNS, HTTPS).
