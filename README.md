@@ -23,7 +23,7 @@ The IOC Checker framework automatically extracts Indicators of Compromise (IOCs)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ioc-checker-blocker.git
+   git clone https://github.com/Cyberpunk-010/ioc-auto-checker.git
    cd ioc-checker-blocker
 
 2. Install required Python dependencies:
