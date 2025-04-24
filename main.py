@@ -61,7 +61,7 @@ def main():
             print(alert)
         print("=" * 30)
 
-    # IOC extraction and processing
+    # IOC extraction and Process
     iocs = extract_iocs_from_file(log_file_path)
 
     if save_to_file:
