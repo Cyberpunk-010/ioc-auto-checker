@@ -1,3 +1,4 @@
+# Second main project file
 import os
 from modules.checked_malicious_ips import extract_malicious_ips_from_file
 from modules.rule_generator import generate_ufw_rules, generate_snort_rules
